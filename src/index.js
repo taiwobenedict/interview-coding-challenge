@@ -7,8 +7,8 @@ import { Provider } from 'react-redux';
 import store from './store';
 
 // importing bootstrap styling
-import "bootstrap/dist/css/bootstrap.css"
-import "bootstrap/dist/js/bootstrap.bundle"
+// import "bootstrap/dist/css/bootstrap.css"
+// import "bootstrap/dist/js/bootstrap.bundle"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
